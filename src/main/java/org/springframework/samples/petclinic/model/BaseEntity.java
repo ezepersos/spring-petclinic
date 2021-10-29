@@ -1,10 +1,15 @@
 /*
+
  * Comentario de ejemplo
  * Comentario de ejemplo
  * Comentario de ejemplo
  * Comentario de ejemplo
  * Comentario de ejemplo
  * Comentario de ejemplo
+ * Esta es una modificación hecha con anterioridad
+ * Por un compañero.
+ * Otra cadena de ejemplo.
+
  */
 package org.springframework.samples.petclinic.model;
 
